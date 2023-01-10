@@ -1,4 +1,4 @@
-Notes
+Improvements
 - remove prs from training data
 - deal with issues that are "known issues"
 - deal with answers that refer to another issue
